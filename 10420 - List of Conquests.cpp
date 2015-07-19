@@ -8,7 +8,7 @@
 #include<bits/stdc++.h>
 
 using namespace std; 
-
+//Osama
 int main () {
 	int n;
 	cin>>n;
